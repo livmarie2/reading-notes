@@ -1,6 +1,6 @@
 ### Notes for 102
 
-Hello, I am Olivia, I am 24 years old, I love all things art related, I also Love to cook and watch movies.
+Hello, I am Olivia, I am 24 years old, I love all things art related, I also love to cook and watch movies.
 
 ### Growth Mindset
  

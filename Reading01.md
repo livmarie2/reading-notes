@@ -8,4 +8,5 @@ _italics_ To emphasize how _important_ a word is in a given sentence.
 
 links are easy to also enter, all you do is type it in [jnfrfnf.com] and it turns blue and then if you wanna rename saind link to clean up your page a little bit [hi im link](https://hiimlink.com)
 Got hub offers a basic syntax for a variety of different markdowns to try on your own. 
+Git hub doesn't just allow one site, but a collectioin of pages onto one site. Kind of like it's your own little personal interweb that you're constantly sharing to the puiblic, but also able to make as many changes as you want to it as you go along seeing fit. 
 

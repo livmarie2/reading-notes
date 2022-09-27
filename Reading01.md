@@ -11,5 +11,5 @@ _italics_ To emphasize how _important_ a word is in a given sentence.
 links are also easy to enter, all you do is type it in [jnfrfnf.com] and it turns blue, this is what it looks like if you wanna rename said  link to clean up your page a little bit [hi im link](https://hiimlink.com)
 
 Github offers a basic syntax for a variety of different markdowns to try on your own. 
-Github doesn't just allow one site, but a collectioin of pages onto one site. Kind of like it's your own little personal interweb that you're constantly sharing to the puiblic, but it is also able to make as many changes as you want to each page as you go along seeing fit. 
+Github doesn't just allow one site, but a collection of pages onto one site. Kind of like it's your own little personal interweb that you're constantly sharing to the puiblic, but it is also able to make as many changes as you want to each page as you go along seeing fit. 
 

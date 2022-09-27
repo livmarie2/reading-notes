@@ -6,6 +6,6 @@ _italics_ To emphasize how _important_ a word is in a given sentence.
 
 **bold text** to not only emphasize how important the text is but to also make sure you don't miss it. 
 
-links are easy to also enter, all you do is type it in [jnfrfnf.com] and it turns blue and then if you wanna rename it to clean up your page a little bit you can rename the link [hi im link](https://hiimlink.com)
+links are easy to also enter, all you do is type it in [jnfrfnf.com] and it turns blue and then if you wanna rename saind link to clean up your page a little bit [hi im link](https://hiimlink.com)
 Got hub offers a basic syntax for a variety of different markdowns to try on your own. 
-It offers different markdown appilcations for different processing machines, for expample
+
